@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @royaljames99
+- 👀 I’m interested in ... not dying
+- 🌱 I’m currently learning ... how not to combust
+- 💞️ I’m looking to collaborate on ... nothing
+- 📫 How to reach me ... best not to
