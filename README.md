@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @royaljames99
-- 👀 I’m interested in ... not dying
-- 🌱 I’m currently learning ... how not to combust
-- 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... best not to
+Hi, I'm James
+I make things of varying quality and put them here when I feel like uploading them
+Please don't judge my code too harshly, it mostly works on the principle of "I will make this work if it kills me"
+I occasionally do things properly though
+Have fun perusing!
